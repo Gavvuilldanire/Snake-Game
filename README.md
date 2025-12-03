@@ -14,7 +14,7 @@ Implementasi permainan klasik Snake berbasis konsol (CLI). Proyek ini ditulis da
 
 ## Kebutuhan Sistem
 * Software: Embarcadero C++ Builder / Dev-C++
-* OS: Windows (Menggunakan `windows.h` API)
+* OS: Windows 11
 
 ## Cara Menjalankan
 1.  Buka *source code* pada software Embarcadero.
