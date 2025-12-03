@@ -20,6 +20,3 @@ Implementasi permainan klasik Snake berbasis konsol (CLI). Proyek ini ditulis da
 1.  Buka *source code* pada software Embarcadero.
 2.  Lakukan *Compile* untuk memastikan tidak ada *error syntax*.
 3.  *Run* program melalui terminal/konsol bawaan.
-
----
-*Dikembangkan oleh Gantar.*
